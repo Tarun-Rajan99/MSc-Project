@@ -14,6 +14,7 @@ After comparing and selecting clustering algorithms, they developed a thresholdi
 Tips:
 - Pre-processing is vital to ensure correct inputs to the system
 - WSSSE and Silhouette used to select hyperparameters
+- The section on what clustering is and the maths behind it is useful
 
 # Template for new entries 
 
