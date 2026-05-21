@@ -4,10 +4,7 @@
 
 **Authors:** Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
-
-
-
-
+page 520 - 
 
 
 
