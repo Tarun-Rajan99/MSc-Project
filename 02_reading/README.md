@@ -1,13 +1,11 @@
 ---------------------------------------------------------------------
 `Sanchez2022`
 
-**Title:** Design and Evaluation of Unsupervised Machine Learning
-Models for Anomaly Detection in Streaming
-Cybersecurity Logs
+**Title:** Design and Evaluation of Unsupervised Machine Learning Models for Anomaly Detection in Streaming Cybersecurity Logs
 **Authors:** Carmen Sánchez-Zas * , Xavier Larriva-Novo , Víctor A. Villagrá , Mario Sanz Rodrigo
 and José Ignacio Moreno
 
-**Key words:** _key word 1_, _key word 2_, _key work 3_. 
+**Key words:** machine learning; clustering; real-time; data pre-processing; threshold; Spark; cybersecurity; K-means; anomaly detection; logs
 
 1. _What_ is the document and _what_ does it say? 
 2. _How_ do they do / show this?
@@ -18,6 +16,10 @@ In this DOC_TYPE, AUTHOUR VERB that THESIS\_STATEMENT.
 They DO/SHOW this by ACTIONS. 
 This is important to PEOPLE because REASONS. 
 This work would be useful when PEOPLE are doing ACTIVITY.
+
+
+
+
 
 # Template for new entries 
 
