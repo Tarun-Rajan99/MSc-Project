@@ -17,8 +17,12 @@ They DO/SHOW this by ACTIONS.
 This is important to PEOPLE because REASONS. 
 This work would be useful when PEOPLE are doing ACTIVITY.
 
+In this paper, Sachez et al (2022) propose three unsupervised machine learning models based on clustering techniques and threshold definitions to detect anomalies from heterogeneous streaming cybersecurity logs. They compared WSSSE, Silhouette, and training time metrics for all models, where K-Means was defined as the optimal algorithm for anomaly detection in streaming data processing.
 
+After comparing and selecting clustering algorithms, they developed a thresholding system to classify anomalous data.
 
+Tips:
+- Pre-processing is vital to ensure correct inputs to the system
 
 
 # Template for new entries 
