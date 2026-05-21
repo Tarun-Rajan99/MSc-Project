@@ -1,8 +1,6 @@
 # Meeting Notes 20th March
 
-## Discussion Notes 
-
-## Key points
+## Things to think about
 
 3 kinds of users broadly:
 1) Average users (humans)
