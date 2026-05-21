@@ -1,9 +1,11 @@
 ---------------------------------------------------------------------
-`firstauthorYYYYword`
+`Sanchez2022`
 
-**Title:** _Title goes here. {Journal, YYYY} (NN pages)._
-
-**Authors:** _Author One, Author Two and Author Three. (optional affiliations)_
+**Title:** Design and Evaluation of Unsupervised Machine Learning
+Models for Anomaly Detection in Streaming
+Cybersecurity Logs
+**Authors:** Carmen Sánchez-Zas * , Xavier Larriva-Novo , Víctor A. Villagrá , Mario Sanz Rodrigo
+and José Ignacio Moreno
 
 **Key words:** _key word 1_, _key word 2_, _key work 3_. 
 
