@@ -1,2 +1,2 @@
 **21st May**
-Want to apply different metrics and methods of visualising the clusters to obtain a robust idea of what occurs during clustering and so we can aim to evaluate the performance of the clusters more comprehensively.
+Want to apply different metrics and methods of visualising the clusters to obtain a robust idea of what occurs during clustering, so we can aim to evaluate the performance of the clusters more comprehensively. This gives interpretability and here we can link back to the original SOC motivation, this interpretability can help with understanding.
