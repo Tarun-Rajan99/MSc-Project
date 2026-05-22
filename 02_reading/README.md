@@ -15,7 +15,9 @@ Tips:
 - Pre-processing is vital to ensure correct inputs to the system
 - WSSSE and Silhouette used to select hyperparameters
 - The section on what clustering is and the maths behind it is useful
-- Need to normalise the data before running it through the models (K-Means uses distances to generates clusters)
+- Need to normalise the data before running it through the models (K-Means uses distances to generate clusters)
+- Within Set Sum of Squared Error (WSSSE) - want to reduce this without overfitting (elbow plot)
+- Hyperparameter optimisation may be computationally too expensive in some cases
 
 
 # Template for new entries 
