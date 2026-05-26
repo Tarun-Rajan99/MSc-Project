@@ -24,6 +24,10 @@
 
 ## What I want to gauge from the EDA:
 
+
+-----
+
+
 For clustering on auth data, your EDA should build towards understanding what features will differentiate users. Here's what to focus on:
 Volume features
 
