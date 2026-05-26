@@ -21,3 +21,5 @@
 - There are human users, machine users (indicated with $), anonymous window session, and other processes (e.g network services)
 - Failed authentication events are only included for users that had a successful authentication event somewhere within the data set.
 
+
+## What I want to gauge from the EDA:
