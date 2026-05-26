@@ -6,6 +6,14 @@
 
 **source computer & destination computer**: The physical machines involved, the source computer is where the request originates and the destination computer is the target being authenticated against.
 
+**authentication type**: the protocol used i.e Kerberos can be considered standard domain authenticaiton
+
+**logon type**: How the logon happened
+
+**authentication orientation**: What kind of event
+
+**Outcome**: What it success or failure
+
 
 
 
