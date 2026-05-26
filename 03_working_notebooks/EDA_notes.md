@@ -4,6 +4,8 @@
 
 **source user & destination user**: The source user is the idenitity initiating the request and the destination user is the account user on the target machine
 
+**source computer & destination computer**: The physical machines involved, the source computer is where the request originates and the destination computer is the target being authenticated against.
+
 
 
 
