@@ -25,6 +25,8 @@
 ## What I want to gauge from the EDA:
 
 
+- The distribution of authentication events over time (how machines and users differ)
+
 -----
 
 
