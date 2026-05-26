@@ -18,6 +18,6 @@
 
 
 - The dataset is 58 days, which is approximately 5 million seconds.
-- There are human users, machine users (indicated with $), anonymous window session, and local system process
+- There are human users, machine users (indicated with $), anonymous window session, and other processes (e.g network services)
 - Failed authentication events are only included for users that had a successful authentication event somewhere within the data set.
 
