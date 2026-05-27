@@ -12,6 +12,15 @@ page 520 -
 
 **Authors:** Dibya Jyoti Bora, Dr. Anil Kumar Gupta
 
+Distance measures investigated:
+- City Block (Manhattan)
+- Euclidean distance
+- Cosine distance
+- Correlation distance
 
 
+Results:
+Cityblock is best computationally. Cosine takes more computation time in comparison.
+
+While choosing distance, consider the number of attributes involved in the dataset.
 
