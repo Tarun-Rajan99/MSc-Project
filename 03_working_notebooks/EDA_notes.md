@@ -24,7 +24,7 @@ Failed authentication events are only included for users that had a successful a
 
 
 
-<img width="890" height="749" alt="Screenshot 2026-05-27 at 12 35 36" src="https://github.com/user-attachments/assets/cd34932d-b0cf-4bd3-bb71-db5d78c05753" />
+<img width="300" height="300" alt="Screenshot 2026-05-27 at 12 35 36" src="https://github.com/user-attachments/assets/cd34932d-b0cf-4bd3-bb71-db5d78c05753" />
 
 
 ---
