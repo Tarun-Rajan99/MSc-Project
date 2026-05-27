@@ -14,6 +14,12 @@ Logon Type : The type of authentication occurring including across the Network, 
 - Authentication Orientation : How the authentication event is being used. This includes indicating whether it is for granting a Kerberos TGT or TGS, a log on or log off event, or an authentication credential mapping. In some instances, the Authentication Orientation cannot be determined and is represented with a question mark.
 - Success or Failure : Indicating whether the authentication event was successfully completed or failed. Failure could happen for several reasons including the wrong password was provided, a locked out account, or an authorisation failure.
 
+
+**Event Count** : 1,051,430,459
+**User Count**: 12,418
+**Computer Count**: 17,666
+
+
 ---
 
 
