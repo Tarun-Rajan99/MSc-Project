@@ -5,7 +5,7 @@ Variations in the metric will result in different clusters, both in terms of the
 
 **27th May**
 
-How to choose the distance measure in k-means for example (i.e euclidean or cosine, or others).
+How to choose the distance measure in k-means, for example (i.e euclidean or cosine, or others).
 
-What features to choose, that help model normal behaviour.
+What features should you choose to help model normal behaviour?
 
