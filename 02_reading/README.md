@@ -19,8 +19,6 @@ Tips:
 - Within Set Sum of Squared Error (WSSSE) - want to reduce this without overfitting (elbow plot)
 - Hyperparameter optimisation may be computationally too expensive in some cases
 
-# Template for new entries 
-
 ---------------------------------------------------------------------
 `firstauthorYYYYword`[https://ebookcentral.proquest.com/lib/imperial/reader.action?docID=4528809&c=UERG&ppg=53]
 
