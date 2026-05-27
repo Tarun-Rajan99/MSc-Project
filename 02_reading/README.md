@@ -24,14 +24,13 @@ Tips:
 
 **Title:** Dynamic Networks And Cyber-security {Journal, YYYY} (NN pages)._
 
-**Authors:** _Author One, Author Two and Author Three. (optional affiliations)_
-
-**Key words:** _key word 1_, _key word 2_, _key work 3_. 
+**Authors:** A. D. Kent. N. M. Adams, N. A. Heard,
 
 A. D. Kent. Cyber-security data sources for dynamic network research. In N. M. Adams
 and N. A. Heard, editors, Dynamic networks and cyber-security, chapter 2, pages 37–64.
 World Scientific, 2016.
 
+---
 
 # Template for new entries 
 
