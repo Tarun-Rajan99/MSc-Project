@@ -12,3 +12,8 @@ What features should you choose to help model normal behaviour?
 Need to consider, when i aggregate and take features such as number of authentications, are we still taking raw counts or counts per minute.
 Sparse windows can skew the failure ratio for example.
 
+With these considerations above, am I trying to just see how the clustering changes/ the stability of clustering changes? If we just keep raw auth counts and raw failure ratio then this is part of the model, and we are seeing how things change.
+
+
+
+
