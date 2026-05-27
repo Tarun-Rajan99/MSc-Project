@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files - never commit these
+*.gz
+*.txt.gz
+*.csv
+*.parquet
+*.feather
+*.arrow
+data/
+auth.txt.gz
+.DS_Store
