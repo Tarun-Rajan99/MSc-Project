@@ -1,3 +1,4 @@
+<img width="890" height="749" alt="Screenshot 2026-05-27 at 12 35 21" src="https://github.com/user-attachments/assets/bbba94b1-5a57-4086-87ce-a11962206fc6" />
 A. D. Kent. Cyber-security data sources for dynamic network research. In N. M. Adams
 and N. A. Heard, editors, Dynamic networks and cyber-security, chapter 2, pages 37–64.
 World Scientific, 2016. [https://ebookcentral.proquest.com/lib/imperial/reader.action?docID=4528809&c=UERG&ppg=53]
@@ -20,6 +21,10 @@ Logon Type : The type of authentication occurring including across the Network, 
 
 Failed authentication events are only included for users that had a successful authentication event somewhere within the data element.
 
+
+
+
+<img width="890" height="749" alt="Screenshot 2026-05-27 at 12 35 36" src="https://github.com/user-attachments/assets/cd34932d-b0cf-4bd3-bb71-db5d78c05753" />
 
 
 ---
