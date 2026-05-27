@@ -30,15 +30,9 @@ Tips:
 
 **Key words:** _key word 1_, _key word 2_, _key work 3_. 
 
-1. _What_ is the document and _what_ does it say? 
-2. _How_ do they do / show this?
-3. _Why_ are they bothering to do this in the first place?
-4. _Who_ is the intended audience for this work?
-
-In this DOC_TYPE, AUTHOUR VERB that THESIS\_STATEMENT.
-They DO/SHOW this by ACTIONS. 
-This is important to PEOPLE because REASONS. 
-This work would be useful when PEOPLE are doing ACTIVITY.
+A. D. Kent. Cyber-security data sources for dynamic network research. In N. M. Adams
+and N. A. Heard, editors, Dynamic networks and cyber-security, chapter 2, pages 37–64.
+World Scientific, 2016.
 
 
 # Template for new entries 
