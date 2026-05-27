@@ -18,6 +18,10 @@ Logon Type : The type of authentication occurring including across the Network, 
 **Computer Count**: 17,666
 
 
+Failed authentication events are only included for users that had a successful authentication event somewhere within the data element.
+
+
+
 ---
 
 
