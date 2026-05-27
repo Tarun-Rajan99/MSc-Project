@@ -1,8 +1,6 @@
-**Title:** Dynamic Networks And Cyber-security {Journal, YYYY} (NN pages)._ [https://ebookcentral.proquest.com/lib/imperial/reader.action?docID=4528809&c=UERG&ppg=53]
-
 A. D. Kent. Cyber-security data sources for dynamic network research. In N. M. Adams
 and N. A. Heard, editors, Dynamic networks and cyber-security, chapter 2, pages 37–64.
-World Scientific, 2016.
+World Scientific, 2016. [https://ebookcentral.proquest.com/lib/imperial/reader.action?docID=4528809&c=UERG&ppg=53]
 
 - Time: The time of the authentication event
 - SourceUser@Domain: The user initiating the authentication event. If the user ends in '$', then it is a computer account for the specified computer. Domain is either DOMx, indicating an Active Directory domain or Cx, indicating a local computer account on computer Cx.
