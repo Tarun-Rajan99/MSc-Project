@@ -52,8 +52,11 @@ Users 32.5%
 Other 7.28%
 
 
-Users Only:
+Users n_auths & failure table:
 <img width="304" height="263" alt="image" src="https://github.com/user-attachments/assets/058758ae-4683-462b-8ac5-0120fd9c2844" />
+
+Machines n_auths & failure table:
+<img width="304" height="263" alt="image" src="https://github.com/user-attachments/assets/a7b86c1c-b466-4578-a1f8-32e9053120ff" />
 
 
 
