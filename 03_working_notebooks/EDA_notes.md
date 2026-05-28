@@ -58,10 +58,10 @@ Machines n_auths & failure table:
 <img width="304" height="263" alt="image" src="https://github.com/user-attachments/assets/a7b86c1c-b466-4578-a1f8-32e9053120ff" />
 
 
-Time series plot of n_auths for users:
+Time series plot of n_auths:
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/92d3f444-3e30-42b4-abb7-f6e523f4f3e7" />
 
-Time series plot of n_auths for machines:
 
 
 
