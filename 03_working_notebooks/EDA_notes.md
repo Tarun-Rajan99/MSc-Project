@@ -58,25 +58,4 @@ Other 7.28%
 - Failure rates per user
 - Temporal patterns
 
-**Goal**: To build a feature vector that will model what normality
-
------
-
-For clustering on auth data, your EDA should build towards understanding what features will differentiate users. Here's what to focus on:
-Volume features
-
-Total auth events per user
-Auth events per time window (hourly/daily) — establishes normal behaviour baseline
-Are some users way more active than others?
-
-Failure behaviour
-
-Failure rate per user (failures / total)
-Users with unusually high failure rates — could be attackers or just locked accounts
-Failures followed quickly by a success — classic brute force pattern
-
-Diversity features
-
-Number of distinct dest_comp per user — how many machines does each user touch?
-Number of distinct dest_user — are they authenticating as multiple identities?
-Users accessing many machines are interesting for lateral movement detection
+**Goal**: To build a feature vector that will model what normality / what features differentiate users
