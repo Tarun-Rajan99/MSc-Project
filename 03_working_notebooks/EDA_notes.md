@@ -25,18 +25,42 @@ Failed authentication events are only included for users that had a successful a
 
 <img width="300" height="300" alt="Screenshot 2026-05-27 at 12 35 36" src="https://github.com/user-attachments/assets/cd34932d-b0cf-4bd3-bb71-db5d78c05753" />
 
-
 ---
-
 
 ## What I want to gauge from the EDA:
 
+My EDA:
 
+Event Count: 1051430459
+
+Distinct src human users:  30,342
+Distinct dest human users: 30,801
+Union (src ∪ dest):        32,116
+
+Distinct src machine accounts:  17,586
+Distinct dest machine accounts: 17,517
+Union (src ∪ dest):             17,606
+
+Distinct source computers:      16,230
+Distinct destination computers: 15,895
+Distinct computers (union):     17,666
+
+
+Source user percentages:
+Machine 60.2%
+Users 32.5%
+Other 7.28%
+
+
+- Total auths for each user
+- Number of distinct dest_comp per user — how many machines does each user touch?
 - The distribution of authentication events over time (how machines and users differ)
-- 
+- Failure rates per user
+- Temporal patterns
+
+**Goal**: To build a feature vector that will model what normality
 
 -----
-
 
 For clustering on auth data, your EDA should build towards understanding what features will differentiate users. Here's what to focus on:
 Volume features
@@ -56,30 +80,3 @@ Diversity features
 Number of distinct dest_comp per user — how many machines does each user touch?
 Number of distinct dest_user — are they authenticating as multiple identities?
 Users accessing many machines are interesting for lateral movement detection
-
-Protocol behaviour
-
-NTLM vs Kerberos ratio per user — heavy NTLM usage is suspicious
-Do certain users switch protocols abnormally?
-
-Temporal patterns
-
-When does each user typically authenticate? Day/night?
-Are there users active outside business hours?
-Sudden spikes in activity
-
-Anomalous patterns specifically relevant to red team
-
-src_user ≠ dest_user events per user
-src_comp ≠ dest_comp on machine accounts (machine authenticating from wrong machine)
-New dest_comp never seen before for that user
-
-Practical EDA order:
-
-Basic counts and distributions first
-Per-user aggregations
-Temporal patterns
-Flag the anomalous patterns above
-Then check against redteam.txt.gz to see if your flags line up with known attacks
-
-The goal is to end up with a feature vector per user that captures their "normal" behaviour — clustering will then naturally group similar users and isolate outliers.
