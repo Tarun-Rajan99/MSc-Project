@@ -52,7 +52,7 @@ Users 32.5%
 Other 7.28%
 
 
-<img width="300" height="254" alt="Screenshot 2026-05-28 at 15 31 16" src="https://github.com/user-attachments/assets/03f72202-d731-46e1-8f2a-3d34c6937f7d" />
+<img width="304" height="263" alt="image" src="https://github.com/user-attachments/assets/058758ae-4683-462b-8ac5-0120fd9c2844" />
 
 
 
