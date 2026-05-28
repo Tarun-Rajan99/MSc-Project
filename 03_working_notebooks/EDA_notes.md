@@ -65,6 +65,11 @@ Time series plot of n_auths:
 
 
 - Number of distinct dest_comp per user — how many machines does each user touch?
+
+<img width="389" height="399" alt="image" src="https://github.com/user-attachments/assets/2e471b7c-f481-45ba-9fae-42e3e951ace0" />
+
+
+
 - auth type/logon type, etc
 
 **Goal**: To build a feature vector that will model what normality / what features differentiate users
