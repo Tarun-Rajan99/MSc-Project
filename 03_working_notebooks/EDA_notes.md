@@ -22,7 +22,6 @@ Failed authentication events are only included for users that had a successful a
 
 
 
-
 <img width="300" height="300" alt="Screenshot 2026-05-27 at 12 35 36" src="https://github.com/user-attachments/assets/cd34932d-b0cf-4bd3-bb71-db5d78c05753" />
 
 ---
@@ -41,7 +40,7 @@ Distinct src machine accounts:  17,586
 Distinct dest machine accounts: 17,517
 Union (src ∪ dest):             17,606
 
-Distinct source computers:      16,230
+Distinct source computers:      16,230 
 Distinct destination computers: 15,895
 Distinct computers (union):     17,666
 
@@ -57,6 +56,12 @@ Users n_auths & failure table:
 
 Machines n_auths & failure table:
 <img width="304" height="263" alt="image" src="https://github.com/user-attachments/assets/a7b86c1c-b466-4578-a1f8-32e9053120ff" />
+
+
+Time series plot of n_auths for users:
+
+
+Time series plot of n_auths for machines:
 
 
 
