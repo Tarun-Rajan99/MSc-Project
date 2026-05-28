@@ -64,12 +64,7 @@ Time series plot of n_auths:
 
 
 
-
-
-- Total auths for each user
 - Number of distinct dest_comp per user — how many machines does each user touch?
-- The distribution of authentication events over time (how machines and users differ)
-- Failure rates per user
-- Temporal patterns
+- auth type/logon type, etc
 
 **Goal**: To build a feature vector that will model what normality / what features differentiate users
