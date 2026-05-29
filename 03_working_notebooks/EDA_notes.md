@@ -72,6 +72,6 @@ Time series plot of n_auths:
 - Skewed plot, could take logs
 
 
-- auth type/logon type, etc
+auth type/logon type, etc
 
 **Goal**: To build a feature vector that will model what normality / what features differentiate users
