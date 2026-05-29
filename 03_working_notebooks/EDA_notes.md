@@ -72,6 +72,62 @@ Time series plot of n_auths:
 - Skewed plot, could take logs
 
 
-auth type/logon type, etc
+auth type/logon type, auth orientation
+shape: (29, 2)
+┌─────────────────────────────────┬───────────┐
+│ auth_type                       ┆ count     │
+│ ---                             ┆ ---       │
+│ str                             ┆ u32       │
+╞═════════════════════════════════╪═══════════╡
+│ ?                               ┆ 583350819 │
+│ Kerberos                        ┆ 362830725 │
+│ Negotiate                       ┆ 55047638  │
+│ NTLM                            ┆ 49341300  │
+│ MICROSOFT_AUTHENTICATION_PACKA… ┆ 746676    │
+│ …                               ┆ …         │
+│ CygwinLsa                       ┆ 14        │
+│ MICROSOFT_AUTHENTICATION_       ┆ 5         │
+│ MICROSOFT_AUTHENTICATIO         ┆ 4         │
+│ TivoliAP                        ┆ 1         │
+│ N                               ┆ 1         │
+└─────────────────────────────────┴───────────┘
 
-**Goal**: To build a feature vector that will model what normality / what features differentiate users
+shape: (12, 2)
+┌─────────────────────────────────┬───────────┐
+│ auth_type                       ┆ count     │
+│ ---                             ┆ ---       │
+│ str                             ┆ u32       │
+╞═════════════════════════════════╪═══════════╡
+│ ?                               ┆ 215807156 │
+│ Kerberos                        ┆ 110913007 │
+│ NTLM                            ┆ 12014891  │
+│ Negotiate                       ┆ 2918175   │
+│ MICROSOFT_AUTHENTICATION_PACKA… ┆ 38989     │
+│ …                               ┆ …         │
+│ NETWARE_AUTHENTICATION_PACKAGE… ┆ 56        │
+│ ACRONIS_RELOGON_AUTHENTICATION… ┆ 27        │
+│ CygwinLsa                       ┆ 8         │
+│ N                               ┆ 1         │
+│ TivoliAP                        ┆ 1         │
+└─────────────────────────────────┴───────────┘
+
+
+shape: (10, 2)
+┌───────────────────┬───────────┐
+│ logon_type        ┆ count     │
+│ ---               ┆ ---       │
+│ str               ┆ u32       │
+╞═══════════════════╪═══════════╡
+│ Network           ┆ 845706092 │
+│ ?                 ┆ 147250039 │
+│ Service           ┆ 48894653  │
+│ Unlock            ┆ 3969891   │
+│ Interactive       ┆ 2052831   │
+│ Batch             ┆ 1789374   │
+│ NewCredentials    ┆ 1113888   │
+│ NetworkCleartext  ┆ 391055    │
+│ RemoteInteractive ┆ 153611    │
+│ CachedInteractive ┆ 109025    │
+└───────────────────┴───────────┘
+
+
