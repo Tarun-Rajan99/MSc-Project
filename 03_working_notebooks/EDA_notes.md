@@ -69,6 +69,8 @@ Time series plot of n_auths:
 <img width="389" height="399" alt="image" src="https://github.com/user-attachments/assets/2e471b7c-f481-45ba-9fae-42e3e951ace0" />
 
 
+- Skewed plot, could take logs
+
 
 - auth type/logon type, etc
 
