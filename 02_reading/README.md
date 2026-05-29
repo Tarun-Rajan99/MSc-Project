@@ -19,6 +19,24 @@ Tips:
 - Within Set Sum of Squared Error (WSSSE) - want to reduce this without overfitting (elbow plot)
 - Hyperparameter optimisation may be computationally too expensive in some cases
 
+---------------------------------------------------------------------
+`Trittenbach2019`
+
+**Title:** Understanding the effects of temporal energy-data aggregation on clustering quality{Journal, YYYY} (NN pages)._
+
+**Authors:** Holger Trittenbach*, Jakob Bach, and Klemens Böhm (optional affiliations)_
+
+
+
+- They identified spurious improvement of clustering validity indices, i. e., data aggregation may boost index values without real improvement in clustering quality
+- A consequence is that our guidelines strongly advise to validate clustering results against randomly generated sequences
+- Some clusters prefer a spherical shape, (Connectivity as a neighborhood-based index) connectivity works well for clusters of arbitrary shape
+- Can use 'base level' and 'current level' for validaiton
+
+
+---------------------------------------------------------------------
+
+
 # Template for new entries 
 
 ---------------------------------------------------------------------
