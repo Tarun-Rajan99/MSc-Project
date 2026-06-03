@@ -39,3 +39,4 @@ Solorio-Fernández, Carrasco-Ochoa, Martínez-Trinidad, "A survey on feature sel
 For your case specifically, Witten and Tibshirani, "A Framework for Feature Selection in Clustering" (JASA 2010) — introduces sparse k-means, which embeds feature weighting directly into k-means. Often the most practical "embedded" option.
 
 
+--
