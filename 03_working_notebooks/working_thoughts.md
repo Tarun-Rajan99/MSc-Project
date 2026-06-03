@@ -29,4 +29,6 @@ For 10 days I computed silhouette metric but stopped running after 1 hour, silho
 - For the clustering algorithm, state what we need e.g (scalable, other properties),
 - What clustering algorithms could we have used if scalability or other things were not a problem [for example algorithms that handle mixed types - continuous and discrete]
 - Colinearity of features is not as much of a problem can just uplift things
-  
+
+
+**3rd June**
