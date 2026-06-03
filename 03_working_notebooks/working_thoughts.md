@@ -32,4 +32,10 @@ For 10 days I computed silhouette metric but stopped running after 1 hour, silho
 
 
 **3rd June**
+Dy and Brodley, "Feature Selection for Unsupervised Learning," JMLR 2004 — the foundational paper. They frame the problem as finding the smallest feature subset that best uncovers natural groupings, and discuss why fixing a feature set or fixing k in advance is problematic (the best k changes with the feature subset). Good for intuition on what makes a feature "good" for clustering: features that produce separable, compact clusters. JMLR
+He, Cai, and Niyogi, "Laplacian Score for Feature Selection," NeurIPS 2005 — a simple filter score: rank each feature by how well it preserves local neighborhood structure. Cheap to compute and a good first pass.
+Alelyani, Tang, and Liu, "Feature Selection for Clustering: A Review" (in Data Clustering: Algorithms and Applications, 2013) — readable survey organized by filter / wrapper / hybrid / embedded.
+Solorio-Fernández, Carrasco-Ochoa, Martínez-Trinidad, "A survey on feature selection approaches for clustering," Artificial Intelligence Review, 2020 — more recent and broader survey. ACM Digital Library
+For your case specifically, Witten and Tibshirani, "A Framework for Feature Selection in Clustering" (JASA 2010) — introduces sparse k-means, which embeds feature weighting directly into k-means. Often the most practical "embedded" option.
+
 
