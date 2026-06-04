@@ -35,7 +35,7 @@ Tips:
 
 
 ---------------------------------------------------------------------
-`firstauthorYYYYword`
+Chandola2009
 
 **Title:**  Anomaly Detection: A Survey.
 
