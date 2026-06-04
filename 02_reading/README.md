@@ -35,6 +35,21 @@ Tips:
 
 
 ---------------------------------------------------------------------
+`firstauthorYYYYword`
+
+**Title:**  Anomaly Detection: A Survey.
+
+**Authors:** Varun Chandola, Arindam Banerjee, and Vipin Kumar
+
+They discuss the different clustering anomaly detection algorithms used into three categories based on different assumptions.
+
+1) Assumption: Normal data instances belong to a cluster in the data, while anomalies either do not belong to any cluster.
+2) Assumption: Normal data instances lie close to their closest cluster centroid, while anomalies are far away from their closest cluster centroid.
+3) Assumption: Normal data instances belong to large and dense clusters, while anomalies either belong to small or sparse clusters.
+
+
+
+---------------------------------------------------------------------
 
 
 # Template for new entries 
