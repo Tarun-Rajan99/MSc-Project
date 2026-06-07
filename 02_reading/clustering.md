@@ -26,3 +26,12 @@ While choosing distance, consider the number of attributes involved in the datas
 
 
 ## Clustering Stability
+
+---
+
+**Title:** Silhouettes: a graphical aid to the interpretation and validation of cluster analysis 
+
+**Authors:** Peter J. ROUSSEEUW
+
+--- 
+
