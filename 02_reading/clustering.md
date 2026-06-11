@@ -87,6 +87,13 @@ reflection of the fact that a cluster cannot be precisely defined.
 previous clusterings.They call this the over-time stabilityand introduced it, because small changes between twotimestamps could develop to huge changes over several timesteps.
 - They note an intuitive ideafor achieving a temporal linkage would be to simplycompare clustering pairs of successive points in time. This approach would strongly weight variation between two points in time and neglect long-term change.
 - Also, the index would be stronglynegatively affected by separations or merges of clusters ofsuccessive time points. Even when comparing clusteringpairs of all different time points these problems would persist.
+- CLOSE takes the over-time stability as well as the quality of a clustering,to give an overall rating for an over-time clustering.
+
+
+
+
+
+
 --- 
 
 **Title:** 
