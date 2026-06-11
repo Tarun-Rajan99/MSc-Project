@@ -35,6 +35,15 @@ While choosing distance, consider the number of attributes involved in the datas
 
 --- 
 
+**Title:** : Clustering Stability: An Overview
+
+**Authors:** von Luxburg (2010)
+
+Measures for 'distances' between clusterings:
+- Rand index, Jaccard index, Hamming distance, minimal matching distance, Variation of Information distance (Meila,
+
+--- 
+
 **Title:** 
 
 **Authors:** 
@@ -43,4 +52,6 @@ While choosing distance, consider the number of attributes involved in the datas
 
 - Spiliopoulou et al. (2006) KDDMONIC — cluster event taxonomy (survive/split/merge/die)
 - Klassen et al. (2022) Applied IntelligenceCLOSE — parameter-free temporal stability evaluation
-- von Luxburg (2010), "Clustering Stability: An Overview" 
+
+
+2003). 
