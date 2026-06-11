@@ -21,7 +21,6 @@ Distance measures investigated:
 
 Results:
 Cityblock is best computationally. Cosine takes more computation time in comparison.
-
 While choosing distance, consider the number of attributes involved in the dataset.
 
 
@@ -40,7 +39,8 @@ While choosing distance, consider the number of attributes involved in the datas
 **Authors:** von Luxburg (2010)
 
 Measures for 'distances' between clusterings:
-- Rand index, Jaccard index, Hamming distance, minimal matching distance, Variation of Information distance (Meila,
+- Rand index, Jaccard index, Hamming distance, minimal matching distance, Variation of Information distance
+-  All these distances count, in some way or the other, points or pairs of points on which the two clusterings agree or disagre
 
 --- 
 
