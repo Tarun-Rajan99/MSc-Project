@@ -91,6 +91,7 @@ previous clusterings.They call this the over-time stabilityand introduced it, be
 
 
 
+- Standard subsequence clustering asks: does this segment of behaviour belong to a cluster or not? If it gets assigned to any cluster, it's considered normal. CLOSE goes further — it tracks transitions between clusters over time. A user could be legitimately assigned to a cluster at every single window, but if they keep switching between different clusters erratically, that transition pattern itself is the anomaly signal. Standard subsequence clustering would miss this entirely.
 
 
 
