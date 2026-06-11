@@ -62,6 +62,20 @@ with this approach.
 
 --- 
 
+**Title:** : Stability estimation for unsupervised clustering: A review
+
+**Authors:** Tianmou Liu, Han Yu, | Rachael Hageman Blair,
+
+
+Unsupervised clustering requires subjective decisions to be made by the investigator in the selection
+of measures that would define how similar items are. Often this decision is guided by the type of data that is being clustered, for example, continuous, binary, categorical, or a mixture thereof, and convenience of default built-in dissimilarity measures in clustering routine implementations. Choi et al. (2010) put this issue into perspective when they
+examined 76 measures for similarity of binary data alone. Arguably, there are at least as many for continuous data.
+Another point of uncertainty is with the investigator's selection of the clustering algorithm. Different clustering algorithms have different optimization functions and therefore differ in how they establish similarity within a grouping (Rand, 1971; Rokach & Maimon, 2005). Estivill-Castro (2002) attribute a large number of clustering algorithms as a
+reflection of the fact that a cluster cannot be precisely defined.
+
+
+--- 
+
 **Title:** 
 
 **Authors:** 
