@@ -43,3 +43,4 @@ While choosing distance, consider the number of attributes involved in the datas
 
 - Spiliopoulou et al. (2006) KDDMONIC — cluster event taxonomy (survive/split/merge/die)
 - Klassen et al. (2022) Applied IntelligenceCLOSE — parameter-free temporal stability evaluation
+- von Luxburg (2010), "Clustering Stability: An Overview" 
