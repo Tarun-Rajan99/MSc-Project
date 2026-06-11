@@ -85,7 +85,7 @@ reflection of the fact that a cluster cannot be precisely defined.
 - Evolutionary clustering is a research field proposed to improve time series clustering
 - It states :  each clustering should be similar to the clustering of its predecessor, while accurately reflecting the properties of its own data
 - uses an extended definition of evolutionary clustering instead of targeting the similarity of two successive clusterings they demand the similarity of a clustering to all
-previous clusterings, they call this the over-time stability
+previous clusterings.They call this the over-time stabilityand introduced it, because small changes between twotimestamps could develop to huge changes over several timesteps.
 
 
 
