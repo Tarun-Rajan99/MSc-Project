@@ -76,6 +76,13 @@ reflection of the fact that a cluster cannot be precisely defined.
 
 --- 
 
+**Title:** CLOSE — parameter-free temporal stability evaluation
+
+**Authors:** - Klassen et al. (2022) Applied Intelligence 
+
+
+--- 
+
 **Title:** 
 
 **Authors:** 
@@ -83,7 +90,6 @@ reflection of the fact that a cluster cannot be precisely defined.
 --- 
 
 - Spiliopoulou et al. (2006) KDDMONIC — cluster event taxonomy (survive/split/merge/die)
-- Klassen et al. (2022) Applied IntelligenceCLOSE — parameter-free temporal stability evaluation
 
 
 2003). 
