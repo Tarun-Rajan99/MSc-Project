@@ -86,7 +86,7 @@ reflection of the fact that a cluster cannot be precisely defined.
 - It states :  each clustering should be similar to the clustering of its predecessor, while accurately reflecting the properties of its own data
 - uses an extended definition of evolutionary clustering instead of targeting the similarity of two successive clusterings they demand the similarity of a clustering to all
 previous clusterings.They call this the over-time stabilityand introduced it, because small changes between twotimestamps could develop to huge changes over several timesteps.
-
+- They note an intuitive ideafor achieving a temporal linkage would be to simplycompare clustering pairs of successive points in time. This approach would strongly weight variation between two points in time and neglect long-term change
 
 
 
