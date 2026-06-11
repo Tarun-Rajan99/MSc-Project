@@ -81,6 +81,15 @@ reflection of the fact that a cluster cannot be precisely defined.
 **Authors:** - Klassen et al. (2022) Applied Intelligence 
 
 
+- Most methods focus on tracking individual times series, not the entire database
+- Evolutionary clustering is a research field proposed to improve time series clustering
+- It states :  each clustering should be similar to the clustering of its predecessor, while accurately reflecting the properties of its own data
+- uses an extended definition of evolutionary clustering instead of targeting the similarity of two successive clusterings they demand the similarity of a clustering to all
+previous clusterings, they call this the over-time stability
+
+
+
+
 --- 
 
 **Title:** 
