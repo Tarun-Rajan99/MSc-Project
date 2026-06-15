@@ -80,18 +80,18 @@ reflection of the fact that a cluster cannot be precisely defined.
 
 **Authors:** - Klassen et al. (2022) Applied Intelligence 
 
-- Most methods focus on tracking individual times series, not the entire database
+- Most methods focus on tracking individual time series, not the entire database
 - Evolutionary clustering is a research field proposed to improve time series clustering
-- It states :  each clustering should be similar to the clustering of its predecessor, while accurately reflecting the properties of its own data
-- uses an extended definition of evolutionary clustering instead of targeting the similarity of two successive clusterings they demand the similarity of a clustering to all
-previous clusterings.They call this the over-time stabilityand introduced it, because small changes between twotimestamps could develop to huge changes over several timesteps.
-- They note an intuitive ideafor achieving a temporal linkage would be to simplycompare clustering pairs of successive points in time. This approach would strongly weight variation between two points in time and neglect long-term change.
-- Also, the index would be stronglynegatively affected by separations or merges of clusters ofsuccessive time points. Even when comparing clusteringpairs of all different time points these problems would persist.
-- CLOSE takes the over-time stability as well as the quality of a clustering,to give an overall rating for an over-time clustering.
+- It states:  each clustering should be similar to the clustering of its predecessor, while accurately reflecting the properties of its own data
+- uses an extended definition of evolutionary clustering instead of targeting the similarity of two successive clusterings, they demand the similarity of a clustering to all
+previous clusterings. They call this the over-time stability and introduced it, because small changes between two timestamps could develop to huge changes over several timesteps.
+- They note an intuitive idea for achieving a temporal linkage would be to simply compare clustering pairs of successive points in time. This approach would strongly weight variation between two points in time and neglect long-term change.
+- Also, the index would be strongly negatively affected by separations or merges of clusters of successive time points. Even when comparing clusteringpairs of all different time points these problems would persist.
+- CLOSE takes the over-time stability as well as the quality of a clustering, to give an overall rating for an over-time clustering.
 
 
 
-- Standard subsequence clustering asks: does this segment of behaviour belong to a cluster or not? If it gets assigned to any cluster, it's considered normal. CLOSE goes further — it tracks transitions between clusters over time. A user could be legitimately assigned to a cluster at every single window, but if they keep switching between different clusters erratically, that transition pattern itself is the anomaly signal. Standard subsequence clustering would miss this entirely.
+- Standard subsequence clustering asks: Does this segment of behaviour belong to a cluster or not? If it gets assigned to any cluster, it's considered normal. CLOSE goes further — it tracks transitions between clusters over time. A user could be legitimately assigned to a cluster at every single window, but if they keep switching between different clusters erratically, that transition pattern itself is the anomaly signal. Standard subsequence clustering would miss this entirely.
 
 
 
