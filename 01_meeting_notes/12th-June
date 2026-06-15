@@ -24,3 +24,5 @@ Example for clarity:
 If you had k = 2, then k = 2 clusters but none of the users are the same, how do you talk about clustering stability
 
 - Could come up with a metric for stability that incorporates if users are not there
+
+For parameters, some are them are usesful for downstream tasks (i.e a different value can be better for downstream) - so the person using the model will choose the parameter.
