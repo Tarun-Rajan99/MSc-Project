@@ -1,1 +1,26 @@
+- Could consider keeping number of clusters the same, as things could get complicated otherwise
+- Then we can just track where points are going
 
+- Could cluster first week and then just take this same number for the rest
+
+
+- Could do a plot of fixed vs variable
+
+
+- Warning: if doing statistical tests, the statistical significance could get inflated with the large dataset (practical vs statistical significance)
+
+- For the missing users, can either state this as shortcomings or find a way to track the users (i.e going in & out)
+
+- Mention why we are not using some of the features (the blank entries)
+
+- When doing clustering stability, thinkg about what Josh would find useful, or put yourself in his shoes
+
+
+Silhouette score:
+- can sample on a smaller sample size & try to predict the final number
+- for smaller samples high variance and bias which decreases with sample size 
+
+Example for clarity:
+If you had k = 2, then k = 2 clusters but none of the users are the same, how do you talk about clustering stability
+
+- Could come up with a metric for stability that incorporates if users are not there
