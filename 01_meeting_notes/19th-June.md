@@ -17,8 +17,3 @@
 **Future Meetings**
 - Thursday - Friday for Niall
 - 1 hour with Josh [when we start meeting at 4pm its 8 am for him, so 8 hour time differenc]
-
-
-
-Get a 1-hour meeting
-
