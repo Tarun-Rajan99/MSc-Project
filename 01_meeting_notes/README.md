@@ -9,6 +9,7 @@
 | 29th May   | Meeting 2      | [notes](./29th-May.md) |
 | 5th June   | Meeting 3      | [notes](./5th-June.md) |
 | 12th June   | Meeting 4      | [notes](./12th-June.md) |
+| 19th June   | Meeting 5      | [notes](./19th-June.md) |
 
 
 
