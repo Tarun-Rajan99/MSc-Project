@@ -1,4 +1,0 @@
-source ~/venv/bin/activate
-export JAVA_HOME=~/java/jdk-17.0.13+11
-export PATH=$JAVA_HOME/bin:$PATH
-
