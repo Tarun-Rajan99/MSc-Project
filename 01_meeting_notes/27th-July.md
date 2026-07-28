@@ -7,3 +7,6 @@
 - **Warning:** Stating causal links
 
 - Niall wared against doing what features are driving cluster movements (mover-stayer model) because it is getting difficult with users dropping in and out. 
+
+
+- Can discuss the pros and cons (claimed) of the indices, its claimed that it has this property and you can test that, so here we are testing whether this property holds 
