@@ -8,4 +8,4 @@ How to optimise reading large datasets in Polars - Claude Sonnet 5
 - Help make a tikz figure of a bipartite graph - Claude Sonnet 5
 
 # Methods
-- Help with plotting a ploar histogram - Claude Sonnet 5
+- Help with plotting a ploar histogram - Gemini 3.6
