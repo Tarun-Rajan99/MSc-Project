@@ -4,4 +4,4 @@
 
 - Consider the correlation between the Jaccard index and the stability indices
 - Consider the correlation between the stability metrics
-- \textbf{Warning}
+- **warning**
