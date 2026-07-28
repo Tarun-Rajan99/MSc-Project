@@ -10,3 +10,6 @@
 - Can discuss the pros and cons (claimed) of the indices, its claimed that it has this property and you can test that, so here we are testing whether this property holds
 
 - Similar to the drop (thats the soft version) we can run a linear regression on the stability points and see interpret the coefficients to see significance and values 
+
+
+- State clearly (and in presentation) the objective is choose k, so we have chosen in this way 
