@@ -14,3 +14,8 @@ Things Josh thinks about when creating/running an algorithm:
 - why am I clustering users - because of sparsity of users clustering can borrow information from other users that have more info on 
 
 - wrap a window - if attackers attack for 10 mins then want a 10 minute wrapper to build a good model. 
+
+
+- using clustering on a set of users to aggregate their data and estimate the parameters of this aggregated data for a time series model
+- want a model in terms of users
+- interpreatiblity of the time series of distances
