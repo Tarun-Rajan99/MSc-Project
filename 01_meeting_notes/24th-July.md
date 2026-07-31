@@ -5,9 +5,7 @@
 - Which dimensions best explain the jump - percentage each of the dimensions is contributing to the metric
 - When there is an obvious thing in the plot and you cant explain it, then examiners will flag this
 
-
-
-Things Josh thinks about when creating/running an algorithm:
+**Things Josh thinks about when creating/running an algorithm**:
 
 - how expensive is your algorithm to run - want to increase profit while still it working
 - I am trying to find rare user behaviour, rare and malicious, also when its rare its bad, lots of rare events occur, we want malicious rarity
@@ -15,7 +13,7 @@ Things Josh thinks about when creating/running an algorithm:
 
 - wrap a window - if attackers attack for 10 mins then want a 10 minute wrapper to build a good model. 
 
-
+**Different use of clustering**
 - using clustering on a set of users to aggregate their data and estimate the parameters of this aggregated data for a time series model
 - want a model in terms of users
 - interpreatiblity of the time series of distances
