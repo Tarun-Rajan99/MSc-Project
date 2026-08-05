@@ -11,8 +11,6 @@ The code for reproducing the research is contained in `04_code` using the datase
 - The `ablation_analysis` folder contains the code for the ablation analysis
 - The `composite_stability` folder contains the code to compute the composite stability index
 
-
-
 A list of the LLM prompts used in the research can be found in `LLM_prompts.md`.
 
 
