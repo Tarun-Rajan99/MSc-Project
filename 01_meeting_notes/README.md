@@ -12,6 +12,7 @@
 | 19th June   | Meeting 5      | [notes](./19th-June.md) |
 | 17th July   | Individual meeting 1      | [notes](./17th-July.md) |
 | 24th July   | Meeting with Josh      | [notes](./24th-July.md) |
+| 7th August   | Individual meeeting 2     | [notes](./7th-August.md) |
 
 
 
