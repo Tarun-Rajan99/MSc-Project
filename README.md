@@ -1,4 +1,2 @@
 # MSc-Project
 
-
-Info
