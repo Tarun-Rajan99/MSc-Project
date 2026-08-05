@@ -1,1 +1,0 @@
-How to plot a polar histogram diagram
