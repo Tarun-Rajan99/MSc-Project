@@ -6,7 +6,7 @@
 - Help format this plot - Claude Sonnet 5 
 
 **Diagrams**
-- Help make a tikz figure of this variation of information diagram - Claude Sonnet 5 
-- Help make a tikz figure of a bipartite graph - Claude Sonnet 5 
+- Help make a tikz figure of this variation of information diagram - Gemini 3.6
+- Help make a tikz figure of a bipartite graph - Gemini 3.6
 
 
