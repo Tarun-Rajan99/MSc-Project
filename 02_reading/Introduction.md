@@ -10,10 +10,18 @@ Department for Science, Innovation and Technology, (2026) (https://www.gov.uk/go
 
 **Reference**:
 
- Tariq et al. (2025) (https://dl.acm.org/doi/10.1145/3723158)
+Tariq, S., Baruwal Chhetri, M., Nepal, S., and Paris, C. (2025) (https://dl.acm.org/doi/10.1145/3723158)
 
 **Extract Used**:
 
 Page 2
 
 ----
+
+**Reference**:
+
+Adams, N. and Heard, N. (2014).
+
+**Extract Used**:
+
+Preface - page VI
