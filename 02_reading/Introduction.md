@@ -65,8 +65,37 @@ Abstract
 
 **Reference**:
 
+Artioli, P., Maci, A., and Magr`ı, A. (2024). (https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1375818/full)
 
 **Extract Used**:
+
+Section 7 - page 20 & 21
+
+
+--- 
+
+**Reference**:
+
+Silvestrini, A. and Veredas, D. (2008). (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6419.2007.00538.x?casa_token=hDBveniwWbAAAAAA%3A8ZNwQpp7SUSp7gS4oLjtB-UUlGXTNUMLBe9oC6moHEOmIjBrIrmGqJsLcrMdoTu7rhwqPBnmtv6EGzsYpw)
+
+
+**Extract Used**:
+
+Abstract and skim through
+
+--- 
+
+**Reference**:
+
+Komisarek, M., Pawlicki, M., D’Antonio, S., Kozik, R., Pawlicka, A., and Chora´s, M. (2024). (https://dl.acm.org/doi/abs/10.1145/3664476.3670882)
+
+
+
+**Extract Used**:
+
+Abstract
+
+
 
 
 
