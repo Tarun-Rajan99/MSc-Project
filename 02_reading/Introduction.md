@@ -104,4 +104,13 @@ Cohen, S., Goldshlager, N., Shapira, B., and Rokach, L. (2023). (https://www.mdp
 **Extract Used**:
 Section 3.1 - Page 4
 
+--- 
+
+**Reference**:
+
+Trittenbach, H., Bach, J., and B¨ohm, K. (2019). (https://www.degruyterbrill.com/document/doi/10.1515/itit-2019-0014/html?casa_token=f9lpd1ZPfwwAAAAA:QlSomKAg1j9_CntksIzERJ4nYEB30YvjTykX3w6KPj1LeXXqlmaUBP5YG_L3cnBXZ9KlnKKrK8Ii)
+
+**Extract Used**:
+
+Abstract
 
