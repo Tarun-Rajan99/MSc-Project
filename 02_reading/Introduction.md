@@ -34,3 +34,28 @@ Iglesias Perez, S. and Criado, R. (2023). (https://www.mdpi.com/2227-7390/11/1/1
 
 
 **Extract Used**:
+
+Used literature review from [Artioli, P., Maci, A., and Magr`ı, A. (2024)] and looked up where they used clustering and how this improved their network intrusion detection system
+
+--- 
+
+**Reference**:
+
+Hu, S., Xiao, Z., Rao, Q., and Liao, R. (2018). (https://ieeexplore.ieee.org/abstract/document/8740748 casa_token=QK4416PGrK0AAAAA:uEqXGtr8X821F_mbEVJ8v2WFCZEIRFvupVgiIIXTEH0VDz32L0-PndSEQsCJSxLqyn64cI-2ykfD9Bw) 
+
+
+**Extract Used**:
+
+Used literature review from [Artioli, P., Maci, A., and Magr`ı, A. (2024)] and abstract
+
+
+--- 
+
+**Reference**:
+
+
+
+**Extract Used**:
+
+
+
