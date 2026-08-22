@@ -7,3 +7,12 @@ Kent, A. D., Liebrock, L. M., and Neil, J. C. (2015) (https://www.sciencedirect.
 
 Abstract + Page 2
 
+---
+
+**Reference**:
+
+Mardia, K. V. and Jupp, P. E. (2000).
+
+**Extract Used**:
+
+Page 16 
