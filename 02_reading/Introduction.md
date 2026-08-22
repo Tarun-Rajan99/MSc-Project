@@ -90,13 +90,18 @@ Abstract and skim through
 Komisarek, M., Pawlicki, M., D’Antonio, S., Kozik, R., Pawlicka, A., and Chora´s, M. (2024). (https://dl.acm.org/doi/abs/10.1145/3664476.3670882)
 
 
-
 **Extract Used**:
 
 Abstract
 
 
+--- 
 
+**Reference**:
 
+Cohen, S., Goldshlager, N., Shapira, B., and Rokach, L. (2023). (https://www.mdpi.com/1099-4300/25/5/820)
+
+**Extract Used**:
+Section 3.1 - Page 4
 
 
