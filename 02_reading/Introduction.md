@@ -4,3 +4,5 @@ Department for Science, Innovation and Technology, 2026 (https://www.gov.uk/gove
 
 **Extract Used**
 "Just over four in ten businesses (43%) and around three in ten charities (28%) reported having experienced any kind of cyber security breach or attack in the last 12 months."
+
+----
