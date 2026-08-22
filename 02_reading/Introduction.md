@@ -53,9 +53,21 @@ Used literature review from [Artioli, P., Maci, A., and Magr`ı, A. (2024)] and 
 
 **Reference**:
 
+S´anchez-Zas, C., Larriva-Novo, X., Villagr´a, V. A., Rodrigo, M. S., and Moreno, J. I.
+(2022). (https://www.mdpi.com/2227-7390/10/21/4043)
+
+**Extract Used**:
+
+Abstract
+
+--- 
+
+
+**Reference**:
 
 
 **Extract Used**:
+
 
 
 
