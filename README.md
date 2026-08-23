@@ -19,9 +19,11 @@ The code for reproducing the research is contained in `03_code` using the authen
   - `ARI.ipynb`, `VI.ipynb,` and `PSI.ipynb` - ARI, 1 - NVI and PSI clustering stability results
  
 
-- The `jaccard` folder cotains the code to compute the jaccard index
-- The `ARI`, `VI,` and `PSI` folders contain the pipelines to produce the relevant clustering stability results
-- The `composite_stability` folder contains the code to compute the baseline composite stability index
+- **`composite_stability`**:
+  - `composite_stability.ipynb` - baseline composite stability index results
+
+
+- **`ablation_analysis`**
 - The `ablation_analysis` folder contains the code for the ablation analysis
 
 
