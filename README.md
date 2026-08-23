@@ -23,7 +23,7 @@ The code for reproducing the research is contained in `03_code` using the authen
   - `composite_stability.ipynb` - baseline composite stability index results
 
 
-- **`ablation_analysis`**
+- **`ablation_analysis`**:
 - The `ablation_analysis` folder contains the code for the ablation analysis
 
 
