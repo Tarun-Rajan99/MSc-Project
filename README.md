@@ -13,6 +13,7 @@ The code for reproducing the research is contained in `03_code` using the authen
 
 
 - **`jaccard`**:
+  - `jaccard.ipynb` - Jaccard index results
   
  
 
