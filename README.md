@@ -5,7 +5,7 @@ This repo contains the work for the MSc Statistics research project at Imperial 
 The code for reproducing the research is contained in `03_code` using the authentication dataset from https://csr.lanl.gov/data/cyber1/. It is structured as follows: 
 
 - **`feature_construction`**:
-  - `data_summary_stats.ipynb` — computes summary statistics for the authentication data.
+  - `data_summary_stats.ipynb` — summary statistics of the data.
   - `feature_engineering.ipynb` — feature engineering and EDA plots 
 
 - **`choosing_k`**
