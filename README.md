@@ -4,7 +4,7 @@ This repo contains the work for the MSc Statistics research project at Imperial 
 
 The code for reproducing the research is contained in `03_code` using the authentication dataset from https://csr.lanl.gov/data/cyber1/. It is structured as follows: 
 
-- **`feature_construction/`** contains the code used for feature construction and exploratory analysis, including:
+- **`feature_construction`** contains the code used for feature construction and exploratory analysis, including:
   - `data_summary_stats.ipynb` — computes summary statistics for the authentication data.
   - [name of other notebook/script] — produces plots of the constructed features.
 
