@@ -8,7 +8,8 @@ The code for reproducing the research is contained in `03_code` using the authen
   - `data_summary_stats.ipynb` — summary statistics of the data.
   - `feature_engineering.ipynb` — feature engineering and EDA plots 
 
-- **`choosing_k`**
+- **`choosing_k`**:
+  - `choosing_k.ipynb` - selection of $K$ for $k$-means clustering
  
 
 - The  folder contains the code to select the optimal k
