@@ -14,7 +14,9 @@ The code for reproducing the research is contained in `03_code` using the authen
 
 - **`jaccard`**:
   - `jaccard.ipynb` - Jaccard index results
-  
+
+- **`ARI`, `VI,` and `PSI`**:
+  - `ARI.ipynb`, `VI.ipynb,` and `PSI.ipynb` - ARI, 1 - NVI and PSI clustering stability results
  
 
 - The `jaccard` folder cotains the code to compute the jaccard index
