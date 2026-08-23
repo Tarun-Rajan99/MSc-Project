@@ -10,9 +10,12 @@ The code for reproducing the research is contained in `03_code` using the authen
 
 - **`choosing_k`**:
   - `choosing_k.ipynb` - selection of $K$ for $k$-means clustering
+
+
+- **`jaccard`**:
+  
  
 
-- The  folder contains the code to select the optimal k
 - The `jaccard` folder cotains the code to compute the jaccard index
 - The `ARI`, `VI,` and `PSI` folders contain the pipelines to produce the relevant clustering stability results
 - The `composite_stability` folder contains the code to compute the baseline composite stability index
